@@ -3,7 +3,6 @@
 # Brief: corrector with spell and stroke
 import codecs
 import os
-
 from pypinyin import lazy_pinyin
 
 import config
